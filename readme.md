@@ -109,8 +109,8 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/SlavaDionisu/customer_churn
+    cd customer_churn
     ```
 
 2. Создайте виртуальное окружение (рекомендуется):
